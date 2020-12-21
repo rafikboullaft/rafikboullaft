@@ -3,7 +3,7 @@
 - 🔭 I’m currently working on Smart City Manarat Al-Moutawassit Project
 - 🌱 I’m currently learning Cloud
 - 👯 I’m looking to collaborate on JAVA or Python projects
-- 🤔 I’m looking for END-OF-STUDIES INTERNSHIP
+- 🤔 I’m looking for (PFE) END-OF-STUDIES INTERNSHIP
 - 💬 Ask me about Anything
 - 📫 How to reach me: rafik.boullaft@gmail.com
 - 😄 Pronouns: He/Him 
